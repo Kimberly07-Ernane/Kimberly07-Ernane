@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Kimberly07-Ernane/Kimberly07-Ernane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 (Linkedin)https://www.linkedin.com/in/kimberly-siqueira-486b74205/
 
