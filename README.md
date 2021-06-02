@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-(Linkedin)https://www.linkedin.com/in/kimberly-siqueira-486b74205/
+(Linkedin) https://www.linkedin.com/in/kimberly-siqueira-486b74205/
 
-![Kimberly07-Ernane's GitHub stats](https://github-readme-stats.vercel.app/api?Kimberly07-Ernane=anuraghazra&show_icons=true&theme=radical)
+![Kimberly07-Ernane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimberly07-Ernaneanuraghazra&show_icons=true&theme=radical)
 
 
 Here are some ideas to get you started:
