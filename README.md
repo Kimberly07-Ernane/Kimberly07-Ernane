@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-
-(Linkedin) https://www.linkedin.com/in/kimberly-siqueira-486b74205/
-
 ![Kimberly07-Ernane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimberly07-Ernane&show_icons=true&theme=onedark)
 
+(Linkedin) https://www.linkedin.com/in/kimberly-siqueira-486b74205/
 <!--
 Here are some ideas to get you started:
 
